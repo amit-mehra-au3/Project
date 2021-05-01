@@ -1,0 +1,16 @@
+button{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 13px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+input{
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+}
